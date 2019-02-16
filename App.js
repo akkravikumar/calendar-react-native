@@ -9,7 +9,6 @@
 
 import React, {Component} from 'react';
 import {StyleSheet, Text, View, Dimensions, AppRegistry} from 'react-native';
-// import CalendarStrip from 'react-native-calendar-strip'
 import CalendarStrip from './library/CalendarStrip'
 
 
